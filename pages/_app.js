@@ -1,4 +1,4 @@
-import '../assets/css/horizon.css'
+import '@/assets/css/horizon.css'
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
